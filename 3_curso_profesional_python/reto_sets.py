@@ -1,0 +1,1 @@
+#crear dos sets y aplicar la unión, intersección y diferencia
